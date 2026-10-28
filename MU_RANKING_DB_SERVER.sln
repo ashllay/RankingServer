@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MU_RANKING_DB_SERVER", "MU_RANKING_DB_SERVER\MU_RANKING_DB_SERVER.vcxproj", "{ABD4A1E4-8AC4-4127-A196-F88917701B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD4A1E4-8AC4-4127-A196-F88917701B2A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABD4A1E4-8AC4-4127-A196-F88917701B2A}.Debug|Win32.Build.0 = Debug|Win32
+		{ABD4A1E4-8AC4-4127-A196-F88917701B2A}.Release|Win32.ActiveCfg = Release|Win32
+		{ABD4A1E4-8AC4-4127-A196-F88917701B2A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
